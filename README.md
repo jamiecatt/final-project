@@ -17,15 +17,15 @@ Through this tool, we aim to make it easier for succulent owners to take care of
 
 ## Component Parts
 
-Moisture Sensor 
-LED Lights 
-Small Speaker 
-Wires 
-Battery 
-Breadboard (?)
-Body/Base (To connect and house everything which could be a container or a 3D printed body.)
+* Moisture Sensor 
+* LED Lights 
+* Small Speaker 
+* Wires 
+* Battery 
+* Breadboard (?)
+* Body/Base (To connect and house everything which could be a container or a 3D printed body.)
 
-* Block Diagram In Repository *
+/ Block Diagram In Repository / 
 
 ## Challenges
 
@@ -44,5 +44,5 @@ Week 4: Sound System, Build House (Extra Time)
 Week 5: Present!
 
 ## References and Link
-[ http://www.instructables.com/id/Plant-Moisture-Sensor-W-Arduino/ http://gardenbot.org/howTo/soilMoisture/ ]
-[ https://www.electronicsweekly.com/blogs/gadget-master/arduino/build-plant-monitor-arduino-2016-09/ ]
+* http://www.instructables.com/id/Plant-Moisture-Sensor-W-Arduino/ http://gardenbot.org/howTo/soilMoisture/
+* https://www.electronicsweekly.com/blogs/gadget-master/arduino/build-plant-monitor-arduino-2016-09/
