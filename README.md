@@ -44,5 +44,6 @@ Week 4: Sound System, Build House (Extra Time)
 Week 5: Present!
 
 ## References and Link
-* http://www.instructables.com/id/Plant-Moisture-Sensor-W-Arduino/ http://gardenbot.org/howTo/soilMoisture/
+* http://www.instructables.com/id/Plant-Moisture-Sensor-W-Arduino/ 
+* http://gardenbot.org/howTo/soilMoisture/
 * https://www.electronicsweekly.com/blogs/gadget-master/arduino/build-plant-monitor-arduino-2016-09/
